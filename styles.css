@@ -2,8 +2,53 @@
 
 
 /* Настя */
-
-
+.row {  
+        display: flex;
+        flex-wrap: wrap;
+        color: rgb(0, 0, 0);
+    }
+    
+    .side1 {
+        flex: auto;
+        background-color: #ffffff;
+        margin-left: 150px;
+        margin-top: 15px;
+    }
+    .side2 {
+        flex: auto;
+        background-color: #ffffff;
+        margin-left: 0px;
+    }
+    .side3 {
+        flex: auto;
+        background-color: #ffffff;
+        margin-left: 0px;
+        margin-top: 20px;
+    }
+    .side4 {
+        flex: auto;
+        background-color: #ffffff;
+        margin: 0px 100px 0 200px;
+    }
+    .side5 {
+        flex: auto;
+        background-color: #ffffff;
+        margin-left: 200px;
+        
+    }
+    .side6{
+        flex: auto;
+        background-color: #ffffff;
+        margin: 15px 0 0 0px;
+    }
+    .side7 {
+        flex: auto;
+        background-color: #ffffff;
+        margin: 15px 150px 0 0;
+    }
+    .fakeimg {
+        background-color: rgb(255, 255, 255);
+    }
 /* Даша */
 
 
